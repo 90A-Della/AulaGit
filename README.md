@@ -3,7 +3,7 @@ descrição principal
 
 ## subtitulo 
 
-blablablablabla
+Esse é o texto do subtitulo, e não está formantado de forma distinta. É texto puro.
 
 ## Para que serve esse arquivo?
 
